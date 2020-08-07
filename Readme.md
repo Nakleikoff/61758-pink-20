@@ -1,7 +1,7 @@
 # Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Алексей Е.](https://up.htmlacademy.ru/adaptive/20/user/61758).
-* Наставник: `Алексей 2`.
+* Наставник: `Алексей 2 - - `.
 
 ---
 
